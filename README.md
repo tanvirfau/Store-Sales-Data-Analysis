@@ -1,6 +1,4 @@
-In this projrct I did a data analysis of a store of annual sales 2022 by using excel. Data has been cleaned and used pivot table for analyzing relation among available data sets. After completing analysis following insights has been taken as consideration:
-
-Sample Insights:
+In this project I have analyzed a store's data of annual sales 2022 using Excel. Data cleaning and pivot tables are used to analyze relationships between available data sets. After completing the analysis the following insights are taken into consideration:
 
  Women are more likely  to buy compared to men ( ~ 64%)
  Maharashtra, Karnataka and Uttar Pradesh are the top 3 states ( ~ 35%)
