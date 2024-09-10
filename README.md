@@ -1,3 +1,7 @@
+# Store_Sales_Data_Analysis
+![Store_Sales_Data_Analysis](https://github.com/tanvirfau/Store_Sales_Data_Analysis/blob/main/dashboard_img.png)
+
+
 In this project I have analyzed a store's data of annual sales 2022 using Excel. Data cleaning and pivot tables are used to analyze relationships between available data sets. After completing the analysis the following insights are taken into consideration:
 
  Women are more likely  to buy compared to men ( ~ 64%)<br />
