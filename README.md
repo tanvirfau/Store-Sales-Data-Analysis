@@ -2,14 +2,14 @@
 ![Store_Sales_Data_Analysis](https://github.com/tanvirfau/Store_Sales_Data_Analysis/blob/main/dashboard_img.png)
 
 
-In this project I have analyzed a store's data of annual sales 2022 using Excel. Data cleaning and pivot tables are used to analyze relationships between available data sets. After completing the analysis the following insights are taken into consideration:
+This repository contains an exploratory data analysis (EDA) of a roller coaster dataset. The analysis examines various features of roller coasters, such as their speed, height, inversions, g-force, and the year they were introduced.
 
- Women are more likely  to buy compared to men ( ~ 64%)<br />
- Maharashtra, Karnataka and Uttar Pradesh are the top 3 states ( ~ 35%) <br />
- Adult age group (30-49 yrs) is max contributing ( ~50%) <br />
- Amazon, Flipkart and Myntra channels are max contributing (~80%) <br />
+The data visualization is performed using Python libraries such as Pandas, Matplotlib, and Seaborn, offering a deep dive into the relationships between different roller coaster attributes. By analyzing these features, we aim to uncover trends and insights, such as how coaster designs have evolved over time and how physical characteristics like height and speed relate to rider experiences like g-force and inversions.
 
-Final conclusion to improve store sales:
-
-Target women customers of age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons availablee on Amazon, Flipkart and Myntra.
+Key Features:
+Import and cleanup of roller coaster data.
+Pairplot matrix visualization to explore correlations between features.
+Differentiation between wood and steel roller coasters for comparative analysis.
+Graphical exploration of coaster statistics across time.
+Feel free to explore, fork, and contribute!
 
