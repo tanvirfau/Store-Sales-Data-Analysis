@@ -1,4 +1,4 @@
-# Store_Sales_Data_Analysis
+# Store Sales Data Analysis
 ![Store_Sales_Data_Analysis](https://github.com/tanvirfau/Store_Sales_Data_Analysis/blob/main/dashboard_img.png)
 
 
